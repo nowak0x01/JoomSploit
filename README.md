@@ -16,7 +16,9 @@
 ![screenshot](https://github.com/nowak0x01/JoomSploit/assets/96009982/4e42f24e-2e42-4159-a39c-0884350fa57a)
 
 ## About
-_**JoomSploit**_ is a script designed to escalate a **Cross-Site Scripting (XSS)** vulnerability to **Remote Code Execution (RCE)** or other's criticals vulnerabilities in Joomla CMS.
+_**JoomSploit**_ is a script designed to escalate a **Cross-Site Scripting (XSS)** vulnerability to **Remote Code Execution (RCE)** or other's criticals vulnerabilities in Joomla CMS. <br><br>
+🌾 **This script provides support for **Joomla** **Versions** **5.X.X**, **4.X.X**, and **3.X.X**.**
+<br>
 
 ## Key Features
 
